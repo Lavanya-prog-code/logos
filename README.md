@@ -8,6 +8,7 @@
 <body>
 <center><h2>FRONTENED LANGUAGES</h2></center>
 <img src="./html.html/html logo.jpg"alt="html logo"width="100">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="./html.html/css logo.png"alt="css logo"width="100">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="./html.html/java script.png"alt="javascript logo"width="100">
